@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Activity 3Username Filter\bin\Debug\Activity 3Username Filter.exe.config
+C:\Users\HP\source\repos\Activity 3Username Filter\bin\Debug\Activity 3Username Filter.exe
+C:\Users\HP\source\repos\Activity 3Username Filter\bin\Debug\Activity 3Username Filter.pdb
+C:\Users\HP\source\repos\Activity 3Username Filter\obj\Debug\Activity 3Username Filter.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Activity 3Username Filter\obj\Debug\Activity 3Username Filter.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Activity 3Username Filter\obj\Debug\Activity 3Username Filter.exe
+C:\Users\HP\source\repos\Activity 3Username Filter\obj\Debug\Activity 3Username Filter.pdb
